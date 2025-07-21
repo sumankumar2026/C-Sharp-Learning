@@ -6,6 +6,8 @@ class Program
         // LoopExamples.Run();
         // ConditionalStatements.Run(7);
         // Calculator.Run();
-        OddEven.Run();
+        // OddEven.Run();
+        // TableGenerator.Run();
+        Count.Run();
     }
 }
