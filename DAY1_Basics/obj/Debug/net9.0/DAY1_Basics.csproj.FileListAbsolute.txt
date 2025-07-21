@@ -1,0 +1,14 @@
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\bin\Debug\net9.0\DAY1_Basics.exe
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\bin\Debug\net9.0\DAY1_Basics.deps.json
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\bin\Debug\net9.0\DAY1_Basics.runtimeconfig.json
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\bin\Debug\net9.0\DAY1_Basics.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\bin\Debug\net9.0\DAY1_Basics.pdb
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.AssemblyInfoInputs.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.AssemblyInfo.cs
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.csproj.CoreCompileInputs.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\refint\DAY1_Basics.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.pdb
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.genruntimeconfig.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\ref\DAY1_Basics.dll
