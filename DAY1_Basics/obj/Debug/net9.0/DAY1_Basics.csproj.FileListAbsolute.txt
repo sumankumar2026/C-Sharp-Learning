@@ -12,3 +12,4 @@ C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\refint\
 C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.pdb
 C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.genruntimeconfig.cache
 C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\ref\DAY1_Basics.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY1_Basics\obj\Debug\net9.0\DAY1_Basics.sourcelink.json
