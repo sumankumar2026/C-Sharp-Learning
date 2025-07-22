@@ -1,0 +1,15 @@
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.AssemblyInfoInputs.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.AssemblyInfo.cs
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.csproj.CoreCompileInputs.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.sourcelink.json
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\bin\Debug\net9.0\DAY2_Methods.exe
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\bin\Debug\net9.0\DAY2_Methods.deps.json
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\bin\Debug\net9.0\DAY2_Methods.runtimeconfig.json
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\bin\Debug\net9.0\DAY2_Methods.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\bin\Debug\net9.0\DAY2_Methods.pdb
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\refint\DAY2_Methods.dll
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.pdb
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\DAY2_Methods.genruntimeconfig.cache
+C:\Users\suman\OneDrive\Desktop\C#_Learning\DAY2_Methods\obj\Debug\net9.0\ref\DAY2_Methods.dll
